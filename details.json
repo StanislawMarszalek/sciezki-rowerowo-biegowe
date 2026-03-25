@@ -1,18 +1,22 @@
 [
   {
     "name": "Rocha 1",
-    "type": "pedestrian"
+    "description": "Fajna trasa",
+    "rating": 4
   },
   {
     "name": "Warta 2",
-    "type": "pedestrian"
+    "description": "Nad rzek¹",
+    "rating": 5
   },
   {
     "name": "Wroc³awska",
-    "type": "cycle"
+    "description": "Miasto",
+    "rating": 3
   },
   {
     "name": "Malta",
-    "type": "cycle"
+    "description": "Jezioro",
+    "rating": 5
   }
 ]

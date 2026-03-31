@@ -8,11 +8,51 @@
     "type": "pedestrian"
   },
   {
-    "name": "Wroc�awska",
+    "name": "Wrocławska",
     "type": "cycle"
   },
   {
     "name": "Malta",
+    "type": "cycle"
+  },
+  {
+    "name": "Stary Rynek",
+    "type": "pedestrian"
+  },
+  {
+    "name": "Cytadela",
+    "type": "pedestrian"
+  },
+  {
+    "name": "Sołacz",
+    "type": "pedestrian"
+  },
+  {
+    "name": "Jeżyce",
+    "type": "pedestrian"
+  },
+  {
+    "name": "Łazarz",
+    "type": "pedestrian"
+  },
+  {
+    "name": "Rondo Rataje",
+    "type": "cycle"
+  },
+  {
+    "name": "Naramowice",
+    "type": "cycle"
+  },
+  {
+    "name": "Piątkowo",
+    "type": "cycle"
+  },
+  {
+    "name": "Morasko",
+    "type": "cycle"
+  },
+  {
+    "name": "Wilda",
     "type": "cycle"
   }
 ]

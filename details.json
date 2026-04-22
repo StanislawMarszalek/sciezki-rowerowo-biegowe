@@ -2,71 +2,86 @@
   {
     "name": "Rocha 1",
     "description": "Trasa nawiązuje do okolic św. Rocha i ważnych połączeń przez Wartę.\nTo miejsce, gdzie piesi i rowerzyści łatwo łączą centrum z prawym brzegiem miasta.\nW pobliżu są miejskie ciągi spacerowe i tereny nad rzeką.\nPrzebieg trasy dobrze wpisuje się w miejski charakter tej części Poznania.\nTo dobry punkt startowy dla spokojnego, miejskiego spaceru.",
-    "rating": 4
+    "rating": 4,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/rocha_1.png"
   },
+
   {
     "name": "Warta 2",
     "description": "Trasa prowadzi wzdłuż Warty, jednej z najważniejszych rzek w Poznaniu.\nW tym rejonie popularne są spacery, jazda na rowerze i odpoczynek nad wodą.\nNadwarciańskie tereny są chętnie wybierane przez mieszkańców o każdej porze roku.\nTo miejsce łączy zielone fragmenty miasta z widokami na rzekę.\nŚwietnie pokazuje rekreacyjny charakter brzegu Warty.",
-    "rating": 5
+    "rating": 5,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/warta_2.png"
   },
   {
     "name": "Wrocławska",
     "description": "Wrocławska to jedna z najbardziej ruchliwych i rozpoznawalnych ulic Starego Miasta.\nŁączy okolice Starego Rynku z dalszą częścią centrum i od lat przyciąga spacerowiczów.\nZnajdują się tu lokale, punkty usługowe i wejścia do klimatycznych kamienic.\nUlica ma też historyczne znaczenie jako ważna miejska arteria.\nWieczorem staje się szczególnie żywa dzięki restauracjom i barom.",
-    "rating": 3
+    "rating": 3,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/wroclawska.png"
   },
   {
     "name": "Malta",
     "description": "Malta to sztuczny zbiornik wodny i jeden z najbardziej znanych terenów rekreacyjnych w Poznaniu.\nPowstał przez spiętrzenie wód Cybiny i jest wykorzystywany jako tor regatowy.\nOkolica oferuje spacery, sport i odpoczynek blisko centrum miasta.\nW pobliżu znajdują się liczne atrakcje i miejsca do aktywnego spędzania czasu.\nTo jeden z najważniejszych punktów na mapie poznańskiej rekreacji.",
-    "rating": 5
+    "rating": 5,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/malta.png"
   },
   {
     "name": "Stary Rynek",
     "description": "Stary Rynek to serce Poznania i najważniejszy punkt historycznego centrum.\nPlac ma regularny kształt, a wokół niego stoją odbudowane po wojnie kamienice.\nDominantą przestrzeni jest renesansowy ratusz, jeden z symboli miasta.\nLatem i zimą rynek tętni życiem dzięki kawiarenkom, restauracjom i spacerom.\nTo miejsce, od którego warto zacząć poznawanie Poznania.",
-    "rating": 5
+    "rating": 5,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/stary_rynek.png"
   },
   {
     "name": "Cytadela",
     "description": "Cytadela to największy park w Poznaniu i jedno z najważniejszych terenów zielonych miasta.\nPowstała na terenie dawnej twierdzy z XIX wieku, dlatego łączy historię z rekreacją.\nW parku znajdują się pomniki, alejki spacerowe i miejsca do odpoczynku.\nTo popularny cel spacerów, także dlatego, że leży niedaleko centrum.\nDaje dużo przestrzeni i spokoju w środku miasta.",
-    "rating": 5
+    "rating": 5,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/cytadela.png"
   },
   {
     "name": "Sołacz",
     "description": "Sołacz kojarzy się z elegancką, zieloną częścią Poznania i spokojnym tempem życia.\nNajbardziej znany jest Park Sołacki, urządzony krajobrazowo wokół stawów i strumienia Bogdanki.\nTo jedno z ulubionych miejsc spacerowych mieszkańców, szczególnie w cieplejsze dni.\nOkolica ma ponad stuletnią historię i bardzo przyjemny, willowy klimat.\nDobrze sprawdza się jako trasa na spokojny odpoczynek.",
-    "rating": 4
+    "rating": 4,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/solacz.png"
   },
   {
     "name": "Jeżyce",
     "description": "Jeżyce to jedna z najbardziej charakterystycznych i modnych dzielnic Poznania.\nZnane są z artystycznego klimatu, ciekawych ulic i bardzo różnorodnej gastronomii.\nTo dzielnica, w której widać połączenie historii z nowoczesnym miejskim stylem.\nSpacer po Jeżycach pozwala odkryć zarówno kamienice, jak i nowe lokale.\nTo miejsce szczególnie lubiane przez osoby szukające miejskiej energii.",
-    "rating": 4
+    "rating": 4,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/jezyce.png"
   },
   {
     "name": "Łazarz",
     "description": "Łazarz to dzielnica o silnym miejskim charakterze i wyraźnych śladach secesji.\nW tej części Poznania ważne są Park Wilsona, zieleń miejska i historyczna zabudowa.\nDzielnica ma ciekawy klimat spacerowy, łącząc spokojniejsze uliczki z życiem miasta.\nZnajdują się tu odnowione miejsca spotkań, kawiarnie i punkty gastronomiczne.\nŁazarz dobrze pokazuje, jak Poznań łączy tradycję z codziennym rytmem miasta.",
-    "rating": 4
+    "rating": 4,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/lazarz.png"
   },
   {
     "name": "Rondo Rataje",
     "description": "Rondo Rataje to ważny węzeł komunikacyjny na wschodzie centrum Poznania.\nŁączy główne arterie miasta i obsługuje ruch tramwajowy oraz autobusowy.\nPo przebudowie stało się wygodniejszym i bardziej uporządkowanym punktem przesiadkowym.\nTo miejsce dobrze pokazuje współczesną, infrastrukturalną stronę miasta.\nChoć jest bardzo ruchliwe, stanowi ważny fragment miejskiej trasy.",
-    "rating": 3
+    "rating": 3,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/rondo_rataje.png"
   },
   {
     "name": "Naramowice",
     "description": "Naramowice to północna część Poznania, która dynamicznie się rozwija.\nW ostatnich latach pojawiły się tu nowe tereny zielone, place i infrastruktura rekreacyjna.\nDzielnica łączy zabudowę mieszkaniową z coraz lepiej urządzoną przestrzenią miejską.\nW okolicy powstają też nowe ciągi piesze i rowerowe.\nTo dobre miejsce dla osób, które lubią spokojniejszy, nowoczesny fragment miasta.",
-    "rating": 3
+    "rating": 3,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/naramowice.png"
   },
   {
     "name": "Piątkowo",
     "description": "Piątkowo kojarzy się z dużymi osiedlami mieszkaniowymi i rozbudowaną infrastrukturą.\nW tej części miasta pojawiają się nowe place zabaw, parki i przestrzenie rekreacyjne.\nTo dzielnica wygodna do codziennego przemieszczania się i rodzinnych spacerów.\nŁączy typowo miejską zabudowę z rosnącą ilością zieleni.\nDobrze pokazuje nowoczesną, osiedlową stronę Poznania.",
-    "rating": 3
+    "rating": 3,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/piatkowo.png"
   },
   {
     "name": "Morasko",
     "description": "Morasko wyróżnia się przyrodą i jednym z najbardziej znanych rezerwatów w Poznaniu.\nTo właśnie tutaj znajdują się kratery po meteorycie, będące ciekawostką geologiczną.\nObszar przyciąga osoby szukające ciszy, natury i spacerów poza ścisłym centrum.\nRezerwat łączy walory naukowe z rekreacyjnymi i krajobrazowymi.\nTo trasa dla tych, którzy chcą zobaczyć bardziej naturalną stronę miasta.",
-    "rating": 5
+    "rating": 5,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/morawsko.png"
   },
   {
     "name": "Wilda",
     "description": "Wilda to dzielnica o mocnym, historycznym i trochę industrialnym charakterze.\nKiedyś była osobnym osiedlem, a dziś jest ważną częścią miasta z własnym klimatem.\nWidać tu połączenie dawnej zabudowy, lokalnego życia i miejskiej energii.\nTo obszar ciekawy spacerowo, bo ma dużo kontrastów i wyrazistą tożsamość.\nWilda dobrze pokazuje codzienny, autentyczny Poznań.",
-    "rating": 4
+    "rating": 4,
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/blob/main/wilda.png"
   }
 ]

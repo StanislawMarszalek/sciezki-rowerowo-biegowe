@@ -1,58 +1,72 @@
 [
   {
     "name": "Rocha 1",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/rocha_1.p
   },
   {
     "name": "Warta 2",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/warta_2.png"
   },
   {
     "name": "Wrocławska",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/wroclawska.png"
   },
   {
     "name": "Malta",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/malta.png"
   },
   {
     "name": "Stary Rynek",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/stary_rynek.png"
   },
   {
     "name": "Cytadela",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/cytadela.png"
   },
   {
     "name": "Sołacz",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/solacz.png"
   },
   {
     "name": "Jeżyce",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/jezyce.png"
   },
   {
     "name": "Łazarz",
-    "type": "pedestrian"
+    "type": "pedestrian",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/lazarz.png"
   },
   {
     "name": "Rondo Rataje",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/rondo_rataje.png"
   },
   {
     "name": "Naramowice",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/naramowice.png"
   },
   {
     "name": "Piątkowo",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/piatkowo.png"
   },
   {
     "name": "Morasko",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/morawsko.png"
   },
   {
     "name": "Wilda",
-    "type": "cycle"
+    "type": "cycle",
+    "imageUrl": "https://raw.githubusercontent.com/StanislawMarszalek/sciezki-rowerowo-biegowe-zdjecia/main/wilda.png"
   }
 ]
